@@ -1,0 +1,66 @@
+[
+  {
+    "nombre": "Control Automatico",
+    "respuestas": {
+      "P1": "si",
+      "P2": "si",
+      "P3": "si",
+      "P4": "si",
+      "P5": "si",
+      "P6": "no",
+      "P7": "si",
+      "P8": "si",
+      "P9": "no",
+      "P10": "si"
+    },
+    "requisitos": "Analiza e implementa los sistemas de control de procesos industriales bajo diferentes tecnolog\u00c3\u00adas"
+  },
+  {
+    "nombre": "Software",
+    "respuestas": {
+      "P1": "no",
+      "P2": "no",
+      "P3": "no",
+      "P4": "si",
+      "P5": "no",
+      "P6": "no",
+      "P7": "no",
+      "P8": "no",
+      "P9": "no",
+      "P10": "si"
+    },
+    "requisitos": "dise\u00c3\u00b1ar y desarrollar software de aplicaciones para la web y dispositivos m\u00c3\u00b3viles"
+  },
+  {
+    "nombre": "Maquinas Herramienta",
+    "respuestas": {
+      "P1": "no",
+      "P2": "si",
+      "P3": "no",
+      "P4": "no",
+      "P5": "si",
+      "P6": "no",
+      "P7": "si",
+      "P8": "si",
+      "P9": "si",
+      "P10": "no"
+    },
+    "requisitos": "es un profesionista que se puede incorporar eficientemente dentro de las actividades del sector productivo y de servicios"
+  },
+  {
+    "nombre": "Construccion",
+    "respuestas": {
+      "P1": "no",
+      "P2": "si",
+      "P3": "no",
+      "P4": "no",
+      "P5": "si",
+      "P6": "si",
+      "P7": "no",
+      "P8": "no",
+      "P9": "si",
+      "P10": "no"
+    },
+    "requisitos": "Estimar el volumen de conceptos y materiales as\u00c3\u00ad como los costos y presupuestos"
+  }
+]
